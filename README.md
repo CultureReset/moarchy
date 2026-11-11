@@ -1,3 +1,14 @@
+> **CultureReset fork of [SimonSchubert/moarchy](https://github.com/SimonSchubert/moarchy).** Omarchy's look, keybindings and theming on an original PinePhone — Arch Linux ARM with Sway in Hyprland's place, because the Mali-400 tops out at OpenGL ES 2.0.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/SimonSchubert/moarchy).
+>
+> The upstream README follows unchanged.
+
+---
+
 # moarchy
 
 <p align="center">
